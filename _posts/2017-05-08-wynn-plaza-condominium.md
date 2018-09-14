@@ -11,4 +11,4 @@ tags:
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: Live in the heart of Manila today. Take a virtual tour now.
 ---
-<iframe width="100%" height="640" style="width: 100%; height: 640px; border: none; max-width: 100%;" frameborder="0" allow="vr,gyroscope,accelerometer,fullscreen" scrolling="no" allowfullscreen="true" src="https://kuula.co/share/7Pgb2?fs=1&vr=1&thumbs=1&chromeless=1&logo=1"></iframe>
+<iframe  style="width: 900px; height: 640px; border: none; max-width: 100%;" frameborder="0" allow="vr,gyroscope,accelerometer,fullscreen" scrolling="no" allowfullscreen="true" src="https://kuula.co/share/7Pgb2?fs=1&vr=1&thumbs=1&chromeless=1&logo=1"></iframe>
