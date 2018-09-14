@@ -1,7 +1,7 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
+title: 360 Pilipinas |
+email: jquema@gmail.com
+description: See the places you have never seen before and make quick and reliable choices to visit.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
