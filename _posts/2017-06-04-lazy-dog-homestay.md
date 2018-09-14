@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Wynn Plaza Condominium"
-description: Live in the heart of Manila today.
+title: "Lazy Dog Homestay"
+description: Live in the quiet side of Baguio today.
 image: '/assets/img/lazy_dog_homestay/intro-bg.jpg'
-category: 'Condominium'
+category: 'Transient'
 tags:
 - pet-lovers
 - rent
