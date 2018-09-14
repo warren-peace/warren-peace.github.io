@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Diga olá para o TRCurrencyTextField: Um componente com valor."
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807365/now-you-see-me_wtv89q.jpg'
-category: 'mobile'
+title: "Wynn Plaza Condominium"
+description: Live in the heart of Manila today.
+image: '/assets/img/wynn_plaza_condo/intro-bg.jpg'
+category: 'Condominium'
 tags:
-- component
-- ios
-- cocoapods
+- condo
+- rent
+- manila
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
