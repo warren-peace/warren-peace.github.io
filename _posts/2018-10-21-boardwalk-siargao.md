@@ -3,11 +3,12 @@ layout: post
 title: "Boardwalk - Siargao"
 description: Enjoy the sea at one of the most iconic views in Siargao.
 image: '/assets/img/siargao_boardwalk/cover.jpg'
-category: 'tour'
+category: 'Tour'
 tags:
 - beach
 - visit
 - siargao
+- surf
 twitter_text: Enjoy the sea at one of the most iconic views in Siargao. Take a virtual tour now.
 introduction: Enjoy the sea at one of the most iconic views in Siargao. Take a virtual tour now.
 ---
