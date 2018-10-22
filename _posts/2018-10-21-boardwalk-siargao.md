@@ -2,7 +2,7 @@
 layout: post
 title: "Boardwalk - Siargao"
 description: Enjoy the sea at one of the most iconic views in Siargao.
-image: '/assets/img/siargao_boardwalk/cover.jpg'
+image: '/assets/img/siargao_boardwalk/SiargaoBoardwalk.jpg'
 category: 'Tour'
 tags:
 - beach
