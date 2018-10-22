@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Wynn Plaza Condominium"
+title: "Boardwalk - Siargao"
 description: Live in the heart of Manila today.
 image: '/assets/img/wynn_plaza_condo/intro-bg.jpg'
-category: 'Condominium'
+category: 'tour'
 tags:
-- condo
-- rent
-- manila
+- beach
+- visit
+- siargao
 twitter_text: Live in the heart of Manila today. Take a virtual tour now.
 introduction: Live in the heart of Manila today. Take a virtual tour now.
 ---
