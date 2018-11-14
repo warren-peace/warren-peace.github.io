@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_v2
 title: "Wynn Plaza Condominium"
 description: Live in the heart of Manila today.
 image: '/assets/img/wynn_plaza_condo/intro-bg.jpg'

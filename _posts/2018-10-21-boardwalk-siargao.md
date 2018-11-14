@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_v2
 title: "Boardwalk - Siargao"
 description: Enjoy the sea at one of the most iconic views in Siargao.
 image: '/assets/img/siargao_boardwalk/SiargaoBoardwalk.jpg'
